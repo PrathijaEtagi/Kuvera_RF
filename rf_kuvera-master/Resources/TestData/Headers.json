@@ -1,0 +1,64 @@
+{
+    "MenuHeaders": [{
+            "Invest": [{
+                "Amanzon Save & Shop": [{
+                        "ScreenTitle": "4 simple steps to qualify for 3% extra for your shopping on Amazon.in",
+                        "Button": "Save Now"
+                    }]
+                },
+                {"Gold": [{
+                            "ScreenTitle": "Buy 24K 99.9% pure digital gold - easily and securely.",
+                            "Button": "Buy Now"
+                    }]
+                },
+                {"Mutual Funds": [{
+                            "ScreenTitle": "",
+                            "Button": ""
+                    }]
+                },
+                {"SaveSmart": [{
+                            "ScreenTitle": "Start SaveSmart today",
+                            "Button": "Save now"
+                    }]
+                },
+                {"Stocks": [{
+                            "ScreenTitle": "",
+                            "Button": ""
+                    }]
+                },
+                {"US stocks": [{
+                            "ScreenTitle": "Diversify with US stocks",
+                            "Button1": "Start today",
+                            "Button2": "Explore",
+                            "Button3": "Start today"
+                    }]
+                }
+            ]
+        },
+            {"Loans": {"ScreenTitle": "",
+                    "Button":""
+                    }
+            },
+            {"Inscure": {
+                    "ScreenTitle": "",
+                    "Button":""
+                    }
+            },
+            {"Remit":{
+                    "ScreenTitle": "",
+                    "Button":""
+                    }
+            },
+            {"Features":[{
+                "Set a Goal":[{
+                    "ScreenTitle": "",
+                    "Button":""
+            }]
+        },
+                {"TradeSmart": [{
+                    "ScreenTitle": "Buy 24K 99.9% pure digital gold - easily and securely.",
+                    "Button": "Buy Now"
+                }]}
+            ]}
+        ]
+}
